@@ -7,6 +7,4 @@ scipy
 opencv-python
 Pillow
 imageio
-libsm6
-libxrender1
-libfontconfig1
+
