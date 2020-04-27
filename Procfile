@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath news news.wsgi
+web: gunicorn --mycartoon_app mycartoon_app.wsgi
